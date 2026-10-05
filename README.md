@@ -1,18 +1,22 @@
-# Menu Margin Optimizer (Batch 89 — Hospitality & Travel AI)
+# 🍽️ Menu Margin Optimizer
 
-AI menu engineering: margin analysis, price optimization and waste-aware menu design for restaurants.
+AI menu engineering for restaurants: margin analysis, price optimization and waste-aware menu design.
 
-**Part of the [Zion AI App Network](https://github.com/Zion-support/zion-network)** — 370+ free, open-source AI micro-apps.
+**Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/) — Batch 89: Hospitality & Travel AI.**
 
-- Category: [Hospitality & Travel AI](https://github.com/Zion-support/zion-network/blob/main/network/hospitality-travel-ai.md)
-- Hub: https://ziontechgroup.com/apps/ · Discovery (free, online): https://ziontechgroup.com/discovery/
-- Batch spotlight: [SPOTLIGHT-2026-10-05-BATCH89](https://github.com/Zion-support/zion-network/blob/main/SPOTLIGHT-2026-10-05-BATCH89.md)
+## Features
+- 📊 Dish-level margin analysis (food cost vs. price vs. mix)
+- 💲 Price optimization recommendations per menu item
+- ♻️ Waste-aware menu design suggestions
+- 📈 Menu engineering matrix (stars, plowhorses, puzzles, dogs)
+- 🔗 Interlinks with the full Zion AI App Network
 
-## Sibling apps in Batch 89
-- [Guest Experience Concierge](https://github.com/Zion-support/guest-experience-concierge)
-- [Hotel Dynamic Pricing](https://github.com/Zion-support/hotel-dynamic-pricing)
-- [Booking Channel Optimizer](https://github.com/Zion-support/booking-channel-optimizer)
-- [Housekeeping Scheduler AI](https://github.com/Zion-support/housekeeping-scheduler-ai)
-- [Travel Itinerary Builder](https://github.com/Zion-support/travel-itinerary-builder)
+## Links
+- 🖥️ Live app: https://ziontechgroup.com/menu-margin-optimizer/
+- 🗂️ Network hub: https://ziontechgroup.com/zion-app-network/
+- 🎬 Batch 89 showcase: https://ziontechgroup.com/zion-app-network/app/network-hospitality-travel-showcase.html
+- 🧭 Free AI Discovery (always online, always free): https://ziontechgroup.com/discovery/
+- 🌐 Network interlinks: [ZION_APP_NETWORK.md](ZION_APP_NETWORK.md)
 
-Free forever · Main site: https://ziontechgroup.com · Contact: commercial@ziontechgroup.com
+---
+© 2026 Zion Tech Group — free & open-source
